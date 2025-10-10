@@ -1,0 +1,179 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "level_data/level_3 edit.tmx",
+    "expandedProjectPaths": [
+        "tilesets",
+        ".",
+        "level_data"
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "C:/Users/alfie/OneDrive/Desktop/project/graphics/terrain/cave_tilesnew.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/alfie/OneDrive/tilesets/cave_tilesnew.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/alfie/OneDrive/tilesets/crates.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/alfie/OneDrive/tilesets/enemy_tiles.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/alfie/OneDrive/tilesets/key_tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/alfie/OneDrive/tilesets/player_tiles.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "level_data/level_0 edit.tmx": {
+            "scale": 0.35971354166666664,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 1922.3629913849277,
+                "y": 347.4987330775357
+            }
+        },
+        "level_data/level_0.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 2848.6666666666665,
+                "y": 365.3333333333333
+            }
+        },
+        "level_data/level_1 edit.tmx": {
+            "scale": 0.35971354166666664,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 1922.3629913849277,
+                "y": 347.4987330775357
+            }
+        },
+        "level_data/level_1.tmx": {
+            "scale": 0.35,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1872.8571428571431,
+                "y": 512.8571428571428
+            }
+        },
+        "level_data/level_2 edit.tmx": {
+            "scale": 0.35971354166666664,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 1922.3629913849277,
+                "y": 350.2787229421559
+            }
+        },
+        "level_data/level_2.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 2031.8181818181815,
+                "y": 1245.4545454545453
+            }
+        },
+        "level_data/level_3 edit.tmx": {
+            "scale": 0.35971354166666664,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 1922.3629913849277,
+                "y": 341.9387533482951
+            }
+        },
+        "level_data/level_3.tmx": {
+            "scale": 0.36,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1895.833333333333,
+                "y": 480.55555555555543
+            }
+        },
+        "level_data/level_4 edit.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 2982,
+                "y": 185.33333333333331
+            }
+        },
+        "level_data/level_4.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1753.030303030303,
+                "y": 833.3333333333334
+            }
+        },
+        "tilesets/cave_tilesnew.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilesets/door_tiles.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilesets/enemy_tiles.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilesets/key_tiles.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilesets/player_tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/alfie/OneDrive/Desktop/project/levels/3 edit",
+    "last.imagePath": "C:/Users/alfie/OneDrive/Desktop/project/graphics/character",
+    "map.height": 11,
+    "map.lastUsedExportFilter": "CSV files (*.csv)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 64,
+    "map.tileWidth": 64,
+    "map.width": 60,
+    "openFiles": [
+        "level_data/level_3 edit.tmx"
+    ],
+    "project": "level_1.tiled-project",
+    "recentFiles": [
+        "level_data/level_3 edit.tmx",
+        "level_data/level_4 edit.tmx",
+        "tilesets/door_tiles.tsx",
+        "level_data/level_2 edit.tmx",
+        "level_data/level_1 edit.tmx",
+        "level_data/level_0 edit.tmx",
+        "level_data/level_0.tmx",
+        "C:/Users/alfie/OneDrive/tilesets/crates.tsx",
+        "C:/Users/alfie/OneDrive/tilesets/player_tiles.tsx",
+        "C:/Users/alfie/OneDrive/tilesets/enemy_tiles.tsx",
+        "tilesets/key_tiles.tsx",
+        "tilesets/cave_tilesnew.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 64,
+        "width": 64
+    },
+    "tileset.type": 1
+}
